@@ -9,7 +9,7 @@ from discord.member import Member
 import numpy as np
 
 
-TOKEN = 'ODM3OTExNzYzODEwMzg1OTYx.YIzcJA.AR9vepbuAfHoVEgzBTpnLCHA77U'
+TOKEN = 'ODM3OTExNzYzODEwMzg1OTYx.YIzcJA.Hg0UKWza3pgJssZLPUJlDQiMzCs'
 intents = discord.Intents.default()
 intents.members = True
 bot = commands.Bot(command_prefix='.', intents=intents)
